@@ -8,12 +8,7 @@
 - Data Analysis
 
 ## Skills
-- Python
-- SQL
-- Pandas
-- NumPy
-- Matplotlib
-- Git & GitHub
+- Python - SQL - Pandas - NumPy - Matplotlib - Git & GitHub
 
 ## Projects
 ### Student Performance Analysis Dashboard
