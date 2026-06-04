@@ -8,8 +8,10 @@
 - Data Analysis
 
 ## Skills
-- Python - SQL - Pandas - NumPy - Matplotlib - Git & GitHub
+- Python - SQL - Pandas - NumPy - Matplotlib - Seaborn
 
+## Tools 
+- Git/GitHub - VSCode - Jupyter Book
 ## Projects
 ### Student Performance Analysis Dashboard
 Python | Pandas | NumPy | Matplotlib
