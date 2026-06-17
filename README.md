@@ -14,4 +14,4 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/manishparihar3618/manishparihar3618/blob/output/github-contribution-grid-snake.svg)
