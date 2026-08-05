@@ -1,17 +1,63 @@
-# 💫 About Me:
-🔭 Working on Data Science & AI projects at Zetheta Algorithms.<br><br>👯 Looking to collaborate on AI, ML, and Data Science projects.<br><br>🤝 Looking for help with Deep Learning and MLOps.<br><br>🌱 Learning Machine Learning, Statistics, SQL, and Cloud Computing.<br><br>💬 Ask me about Python, Pandas, NumPy, Git, GitHub, and Data Analytics.<br><br>⚡ Passionate about understanding how AI models work and applying research to real-world challenges.
+## 👋 About Me
 
+- 🔭 Building Machine Learning, Data Science, and AI projects.
+- 🌱 Learning Machine Learning, Statistics, SQL, Docker, Cloud Computing, and MLOps.
+- 🤝 Looking for help with AI deployment, MLOps, and Cloud technologies.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manish_parihar3618) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/manish-parihar-a93a912aa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manishparihar3618@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=manishparihar3618&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=manishparihar3618&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=manishparihar3618&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 Featured Projects
 
-## 🐍 Contribution Snake
+### 🧠 MatRisk AI
+An AI-powered material risk prediction platform that analyzes material properties and market factors to estimate risk and support better decision-making.
 
-![snake gif](https://github.com/manishparihar3618/manishparihar3618/blob/output/github-contribution-grid-snake.svg)
+*Tech:* Python • Pandas • NumPy • Scikit-Learn • Matplotlib • Streamlit
+
+<br>
+
+### 🚚 LogisChain AI
+A machine learning project for logistics risk and delivery delay prediction using data analysis, feature engineering, and predictive modeling.
+
+*Tech:* Python • Pandas • NumPy • Scikit-Learn • Matplotlib • Streamlit
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<!-- Keep the GitHub Stats, Streak Stats, Top Languages,
+Contribution Graph and Contribution Snake exactly as you already have -->
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
