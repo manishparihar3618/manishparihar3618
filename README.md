@@ -1,63 +1,65 @@
-## 👋 About Me
+<h1 align="center">Hi 👋, I'm Manish Parihar</h1>
 
-- 🔭 Building Machine Learning, Data Science, and AI projects.
-- 🌱 Learning Machine Learning, Statistics, SQL, Docker, Cloud Computing, and MLOps.
-- 🤝 Looking for help with AI deployment, MLOps, and Cloud technologies.
+<h3 align="center">
+Machine Learning • Data Science • AI
+</h3>
 
----
+<p align="center">
+Building ML models and learning every day.
+</p>
+
+🔭 Building Machine Learning and AI projects.
+
+🌱 Learning Statistics, SQL, Docker, Cloud, and MLOps.
+
+🤝 Open to collaborating on AI and Data Science projects.
+
+💬 Ask me about Python, Pandas, NumPy, Scikit-Learn, and Data Analysis.
+
+## 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,vscode,git" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
 
 ## 🚀 Featured Projects
 
 ### 🧠 MatRisk AI
-An AI-powered material risk prediction platform that analyzes material properties and market factors to estimate risk and support better decision-making.
-
-*Tech:* Python • Pandas • NumPy • Scikit-Learn • Matplotlib • Streamlit
-
-<br>
+AI-powered material risk prediction platform.
 
 ### 🚚 LogisChain AI
-A machine learning project for logistics risk and delivery delay prediction using data analysis, feature engineering, and predictive modeling.
+Machine learning for logistics delay prediction.
 
-*Tech:* Python • Pandas • NumPy • Scikit-Learn • Matplotlib • Streamlit
-
----
-
-## 💻 Tech Stack
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<!-- Keep the GitHub Stats, Streak Stats, Top Languages,
-Contribution Graph and Contribution Snake exactly as you already have -->
-
----
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=manishparihar3618&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=manishparihar3618&theme=rose&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=manishparihar3618&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Connect With Me
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/manish-parihar-a93a912aa/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.kaggle.com/manishparihar1144">
+    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="45"/>
+  </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
+  <a href="mailto:manishparihar3618@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
 </p>
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/manishparihar3618/manishparihar3618/blob/output/github-contribution-grid-snake.svg)
+
